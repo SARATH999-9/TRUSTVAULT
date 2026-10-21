@@ -110,5 +110,4 @@ sh tests/ui/run.sh        # optional (needs Node 18+): drives the real screens a
 - Google sign-in, SMTP delivery and the live AI call were tested with fakes only (they need your credentials); the screens were tested in a simulated browser (jsdom), not real Chrome/Firefox/Safari.
 - No ownership transfer, restore-from-deleted, or retention job (soft delete only).
 =======
-# TRUST_VAULT
 >>>>>>> a4a0107bca9f76c8a9976efcbddc9d1de80b7ce4
