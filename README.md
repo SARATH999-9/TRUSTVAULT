@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TrustVault: secure document sharing with approved accounts and a provable audit trail
 
 One website with **three portals** (Administrator, Owner, Viewer). Nobody gets in, and no document is shared, until an
@@ -108,3 +109,6 @@ sh tests/ui/run.sh        # optional (needs Node 18+): drives the real screens a
 - The PostgreSQL path (`schema.sql`, triggers) was written but not run against a real PostgreSQL server while building; tests run on SQLite. Check the first deploy.
 - Google sign-in, SMTP delivery and the live AI call were tested with fakes only (they need your credentials); the screens were tested in a simulated browser (jsdom), not real Chrome/Firefox/Safari.
 - No ownership transfer, restore-from-deleted, or retention job (soft delete only).
+=======
+# TRUST_VAULT
+>>>>>>> a4a0107bca9f76c8a9976efcbddc9d1de80b7ce4
