@@ -1,0 +1,8 @@
+{
+  "name": "trustvault-ui-smoke",
+  "private": true,
+  "type": "module",
+  "description": "Drives the real web app (bundled) in jsdom against a live server, as each role.",
+  "scripts": { "test": "node smoke.mjs" },
+  "devDependencies": { "esbuild": "^0.25.0", "jsdom": "^26.0.0" }
+}
