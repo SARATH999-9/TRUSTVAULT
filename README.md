@@ -1,4 +1,4 @@
-<<<<<< HEAD
+<<<<< HEAD
 # TrustVault: secure document sharing with approved accounts and a provable audit trail
 
 One website with **three portals** (Administrator, Owner, Viewer). Nobody gets in, and no document is shared, until an
